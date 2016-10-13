@@ -1,0 +1,19 @@
+{
+  "name": "babylonjs-typescript-starter",
+  "version": "0.1.0",
+  "description": "Simple boilerplate project for BabylonJS with TypeScript and Webpack.",
+  "main": "./dist/app.js",
+  "dependencies": {
+    "babylonjs": "^2.4.1"
+  },
+  "devDependencies": {
+    "ts-loader": "^0.9.1",
+    "webpack": "^1.13.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deluvas@gmail.com",
+  "license": "MIT",
+  "private": true
+}
