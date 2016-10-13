@@ -27,7 +27,15 @@ export = BABYLON;
 ## Compile & Run 
 
 ````
-webpack -w
+webpack -w 
 ````
 
-Open `index.html`.
+Then open `index.html`
+
+## Links
+
+Engine docs:
+
+- [Reference](http://doc.babylonjs.com/classes/2.4)
+- [Live examples](http://www.babylonjs-playground.com)
+- [Tutorials](http://doc.babylonjs.com/tutorials)
